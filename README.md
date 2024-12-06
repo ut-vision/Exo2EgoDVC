@@ -6,7 +6,7 @@ Official implementation and data release for "Exo2EgoDVC: Dense Video Captioning
 > IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025 \
 > [[paper]](https://arxiv.org/abs/2311.16444) [[project]](https://tkhkaeio.github.io/projects/25-egodvc)
 
-![](https://gist.github.com/user-attachments/assets/95e2fcda-5493-42c9-a767-ac75b0623b49)
+![](assets/teaser_exo2ego.jpg)
 
 ## Release notes
 [Dec 6th, 2024]: Open repository
